@@ -1,7 +1,7 @@
 # Renderização de Quadrados em React Native
 
 <div align="center">
-    <img src="https://github.com/Savyo-Marques/Processamento-Visual-Quadrados-React-Native/issues/1#issue-1903527792" width="400">
+    <img src="https://github.com/Savyo-Marques/Processamento-Visual-Quadrados-React-Native/assets/129305960/7d274d95-6ddb-4b74-afda-10392ccc5e9c" width="400">
 </div>
 
 ## Descrição
